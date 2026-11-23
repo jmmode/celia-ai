@@ -21,6 +21,12 @@ Los originales visuales incluyen dos guías maestras de CELIA y el logo corporat
 
 No sustituir la voz por coincidencias nominales de la biblioteca pública.
 
+## Voz de CELIA
+La configuración vigente del agente fue verificada directamente en ElevenLabs el 2026-11-23. Ver [identidad sonora](docs/identidad/IDENTIDAD_SONORA.md).
+
+## Imágenes y recursos
+Los PNG originales permanecen pendientes de subir y validar. Ver [inventario y hashes](docs/recursos/REGISTRO_ACTIVOS_PENDIENTES_GITHUB.md).
+
 ## Seguridad y colaboración
 No publicar credenciales, datos personales, API keys ni medios internos sin autorización. Claude, ChatGPT y Codex requieren acceso autorizado a este repositorio. Las propuestas se versionan y los recursos se marcan como aprobados solo después de revisión.
 
