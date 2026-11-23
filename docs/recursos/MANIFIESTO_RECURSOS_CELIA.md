@@ -3,7 +3,7 @@
 **Ruta canónica recomendada:** `docs/recursos/MANIFIESTO_RECURSOS_CELIA.md`  
 **Versión:** 1.0.0  
 **Fecha:** 2026-11-23  
-**Estado:** Inventario inicial; **ningún archivo maestro adjunto ha sido verificado en este manifiesto**.
+**Estado:** Documentación subida a GitHub; imágenes maestras presentes en las fuentes del proyecto CELIA, **pendientes de carga binaria al repositorio y verificación**.
 
 ## 1. Propósito
 
@@ -13,9 +13,9 @@ Este documento es el **índice único** que indica a ChatGPT, Claude, Codex y ot
 
 ## 2. Ubicación de referencia del repositorio
 
-- **Nombre propuesto de repositorio:** `celia-ai`.
+- **Repositorio existente:** `jmmode/celia-ai`.
 - **Visibilidad recomendada:** **privada**.
-- **URL GitHub:** `PENDIENTE_CREACION` (no inventar una dirección).
+- **URL GitHub verificada:** `https://github.com/jmmode/celia-ai` (repositorio privado).
 - **Rama estable:** `main`.
 - **Entrada humana:** `README.md`.
 - **Entrada de agentes:** `CELIA_INSTRUCCIONES_PROYECTO.md`, `CLAUDE.md` y **este manifiesto**.
@@ -138,4 +138,4 @@ Audio de referencia y video final pueden guardarse en un Drive gobernado o almac
 ## 9. Estado de construcción
 
 **Completado:** definición de rutas, roles, estructura de acceso y registro inicial basado en el trabajo ya aprobado.  
-**Pendiente:** recepción real de documentos/imágenes, verificación de voz oficial, creación del repo, publicación, permisos a Claude y demás agentes.
+**Pendiente:** subida de imágenes originales a GitHub, verificación de voz oficial, validación de activos, habilitación de permisos de lectura para Claude y demás agentes.
