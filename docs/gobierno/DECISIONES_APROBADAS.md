@@ -1,0 +1,18 @@
+# Registro de decisiones — CELIA
+
+**Consolidado:** 2026-11-23
+**Responsable de aprobación:** Dirección del proyecto CELIA / TiviPlay Latino.
+
+| ID | Decisión | Estado |
+|---|---|---|
+| CELIA-001 | CELIA es la presentadora y asistente virtual oficial de TiviPlay Latino. | APROBADO |
+| CELIA-002 | Preservar imagen maestra y voz oficial, sin sustituciones genéricas. | APROBADO |
+| CELIA-003 | ElevenLabs: agente `agent_1501m7x7hjy8escav3sta1gakbmq`, Voice ID de referencia `EYBbN7OENxAX5QX56IiW`, voz «Kate 1 — Warm, Close and Natural». | REFERENCIA DOCUMENTADA — PENDIENTE VERIFICACIÓN EN SERVICIO |
+| CELIA-004 | Fire Stick mediante Downloader; código `2865004`. | APROBADO |
+| CELIA-005 | Incluir ruta de autorización de instalaciones desconocidas, solamente cuando corresponda; no activar ADB por defecto. | APROBADO |
+| CELIA-006 | Video de CELIA en casa con control remoto y capturas reales; formato vertical 9:16, 1080×1920, narración oficial, lip-sync y QA. | APROBADO COMO DISEÑO |
+| CELIA-007 | Duración objetivo del tutorial 35–45 segundos, subordinada a legibilidad y audio real. | APROBADO COMO OBJETIVO |
+| CELIA-008 | GitHub privado como fuente documental versionada; acceso mínimo para agentes autorizados. | APROBADO |
+| CELIA-009 | Separar materiales aprobados para publicación de fuentes maestras y elementos sensibles. | APROBADO |
+
+**Nota:** Ningún MP4 final ha sido producido o validado aquí. La ficha visual y la vinculación de voz exigen verificación documental antes de producir.
