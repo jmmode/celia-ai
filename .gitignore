@@ -1,0 +1,15 @@
+# No publicar secretos ni medios temporales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+.tmp/
+tmp/
