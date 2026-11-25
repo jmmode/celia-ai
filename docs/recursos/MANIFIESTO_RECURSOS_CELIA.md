@@ -1,9 +1,9 @@
 # CELIA — Manifiesto de recursos, imágenes y accesos
 
 **Ruta canónica recomendada:** `docs/recursos/MANIFIESTO_RECURSOS_CELIA.md`  
-**Versión:** 1.0.0  
-**Fecha:** 2026-11-23  
-**Estado:** Documentación subida a GitHub; imágenes maestras presentes en las fuentes del proyecto CELIA, **pendientes de carga binaria al repositorio y verificación**.
+**Versión:** 2.0.0  
+**Fecha:** 2026-11-24  
+**Estado:** Nueva documentación de CELIA y MATEO en GitHub; imágenes originales nuevas pendientes de carga binaria y QA. Los originales anteriores se consideran OBSOLETOS para nuevas publicaciones.
 
 ## 1. Propósito
 
@@ -139,3 +139,16 @@ Audio de referencia y video final pueden guardarse en un Drive gobernado o almac
 
 **Completado:** definición de rutas, roles, estructura de acceso y registro inicial basado en el trabajo ya aprobado.  
 **Pendiente:** subida de imágenes originales a GitHub, verificación de voz oficial, validación de activos, habilitación de permisos de lectura para Claude y demás agentes.
+
+## 10. Migración de identidad gráfica — 2026-11-24
+
+- **CELIA-V2-DOC**: `docs/identidad/FICHA_TECNICA_CELIA.md` — DOCUMENTADO.
+- **MATEO-V1-DOC**: `docs/identidad/FICHA_TECNICA_MATEO.md` — DOCUMENTADO.
+- **BRAND-V2-DOC**: `docs/identidad/IDENTIDAD_VISUAL.md` — DOCUMENTADO.
+- **CELIA-V2-IMG**: nueva ficha `ficha_maestra_de_celia_tiviplay_latino.png` (archivo del chat) — PENDIENTE_CARGA_GITHUB_DRIVE y revisión de erratas en textos pequeños.
+- **MATEO-V1-IMG**: `ficha_maestra_de_mateo_tiviplay_latino.png` (archivo del chat) — PENDIENTE_CARGA_GITHUB_DRIVE y QA.
+- **CELIA-LEGACY-IMG-001/002**: fichas del avatar previo — **OBSOLETO_PARA_PRODUCCION**, pendiente de eliminación después de verificar sustitutos y dependencias. No borrar automáticamente.
+- **CELIA-VOICE**: agente `agent_1501m7x7hjy8escav3sta1gakbmq`, Voice ID `EYBbN7OENxAX5QX56IiW` — CONSERVAR.
+- **MATEO-VOICE**: NO_DEFINIDO, NO_CREAR_SIN_AUTORIZACIÓN.
+
+**Regla de migración:** actualizar los agentes lectores para que consulten los documentos nuevos; prohibir la reutilización de fichas anteriores incluso mientras sigan archivadas. No inventar hashes ni afirmar que las nuevas imágenes están cargadas antes de verificar los binarios.
