@@ -14,8 +14,8 @@ Este documento es el **índice único** que indica a ChatGPT, Claude, Codex y ot
 ## 2. Ubicación de referencia del repositorio
 
 - **Repositorio existente:** `jmmode/celia-ai`.
-- **Visibilidad recomendada:** **privada**.
-- **URL GitHub verificada:** `https://github.com/jmmode/celia-ai` (repositorio privado).
+- **Visibilidad recomendada:** **privada**. **Estado observado 2026-11-24: PÚBLICO**; restringir si las fuentes visuales o documentos tienen derechos limitados.
+- **URL GitHub verificada:** `https://github.com/jmmode/celia-ai` (**visibilidad observada: pública**).
 - **Rama estable:** `main`.
 - **Entrada humana:** `README.md`.
 - **Entrada de agentes:** `CELIA_INSTRUCCIONES_PROYECTO.md`, `CLAUDE.md` y **este manifiesto**.
