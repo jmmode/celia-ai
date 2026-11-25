@@ -19,6 +19,6 @@ Los dos PNG de CELIA registrados arriba son históricos y quedan **OBSOLETOS PAR
 | Recurso nuevo | Archivo del chat | Estado |
 |---|---|---|
 | Nueva ficha maestra CELIA | `ficha_maestra_de_celia_tiviplay_latino.png` | PENDIENTE_SUBIR_GITHUB_DRIVE_Y_QA |
-| Ficha maestra MATEO | `ficha_maestra_de_mateo_tiviplay_latino.png` | PENDIENTE_SUBIR_GITHUB_DRIVE_Y_QA |
+| Ficha maestra MATÍAS | `ficha_maestra_de_mateo_tiviplay_latino.png` | PENDIENTE_SUBIR_GITHUB_DRIVE_Y_QA |
 
 Priorizar nueva identidad visual y mantener la voz de CELIA intacta. Antes de cargar, validar las etiquetas menores y el logo en la imagen fuente.
