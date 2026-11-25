@@ -28,7 +28,7 @@ Si hay contradicción, **no inventar una conciliación**: registrar discrepancia
 ## 3. Función de cada plataforma
 
 - **ChatGPT, proyecto CELIA:** análisis, trabajo colaborativo, decisiones y elaboración de documentos.
-- **GitHub, repositorio privado `celia-ai` (nombre propuesto):** fuente versionada principal de documentación, referencias y decisiones aprobadas.
+- **GitHub, repositorio `jmmode/celia-ai` (existente):** fuente versionada principal de documentación, referencias y decisiones aprobadas.
 - **Claude / Codex / otros agentes:** consumidores o colaboradores del repositorio, únicamente con permisos explícitos.
 - **ElevenLabs:** plataforma de voz oficial; sus identificadores son referencias, no credenciales.
 - **Almacenamiento de activos:** archivos pequeños versionados en Git; videos/audio pesados en almacenamiento gobernado, Git LFS o repositorio de medios según decisión técnica.
