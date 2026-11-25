@@ -1,14 +1,14 @@
 # CELIA — Instrucciones maestras del proyecto
 
 **Documento:** `CELIA_INSTRUCCIONES_PROYECTO.md`  
-**Versión:** 1.0.0  
-**Fecha de consolidación:** 2026-11-23  
-**Estado:** Base operativa inicial; requiere incorporación y validación de archivos oficiales.  
+**Versión:** 2.0.0  
+**Fecha de consolidación:** 2026-11-24  
+**Estado:** Identidad gráfica original CELIA/MATEO documentada; nueva ficha binaria pendiente de carga y QA.  
 **Responsable de aprobación:** Dirección del proyecto CELIA / TiviPlay Latino.
 
 ## 1. Propósito
 
-CELIA es la identidad de asistente virtual y presentadora audiovisual de TiviPlay Latino. Este proyecto organiza la documentación de su identidad, su voz, los procedimientos de servicio y los materiales de producción para que ChatGPT, Claude, Codex y otros agentes trabajen sobre **fuentes versionadas**, sin depender de conversaciones.
+CELIA es la identidad de asistente virtual y presentadora audiovisual de TiviPlay Latino. Su nombre y voz se conservan; la imagen previa queda obsoleta y se sustituye por una identidad gráfica original. MATEO es su contraparte masculina visual para comunicación (sin agente de voz confirmado). Este proyecto organiza la documentación de su identidad, su voz, los procedimientos de servicio y los materiales de producción para que ChatGPT, Claude, Codex y otros agentes trabajen sobre **fuentes versionadas**, sin depender de conversaciones.
 
 **Objetivo operativo:** producir y mantener contenidos de atención al cliente, tutoriales, guiones, audiovisuales y flujos de soporte coherentes con la marca y técnicamente verificables.
 
@@ -51,7 +51,7 @@ Si hay contradicción, **no inventar una conciliación**: registrar discrepancia
 ## 5. Identidad audiovisual CELIA
 
 - **Rol:** presentadora y asistente virtual oficial de TiviPlay Latino.
-- **Apariencia:** definida por las fichas maestras oficiales; **pendiente de adjuntar y verificar** en el repositorio.
+- **Apariencia:** según `docs/identidad/FICHA_TECNICA_CELIA.md` e `IDENTIDAD_VISUAL.md` versión 2.0.0. La ficha histórica queda OBSOLETA para producción; la nueva imagen maestra requiere carga y revisión del binario.
 - **Voz:** definida por el proyecto existente de ElevenLabs. En el historial del proyecto se ha usado el agente `CELIA | TiviPlay Latino | Prototipo`, Agent ID `agent_1501m7x7hjy8escav3sta1gakbmq`, voz referenciada como **Kate 1 — Warm, Close and Natural**, Voice ID `EYBbN7OENxAX5QX56IiW`. **Estos datos provienen de decisiones previas; deben confirmarse en ElevenLabs antes de generar audio definitivo.**
 - **Advertencia:** una búsqueda por el nombre “Celia” mostró una voz pública francesa con otro identificador; **no corresponde a una verificación de la voz oficial** y no se debe sustituir la referencia previa por esa coincidencia nominal.
 - **Estilo narrativo:** español latinoamericano, profesional, claro, cercano y orientado a servicio.
@@ -139,7 +139,7 @@ Todo agente debe indicar qué documentos utilizó (ruta y versión/commit cuando
 
 ## 11. Pendientes documentales
 
-- [ ] Adjuntar y leer fichas técnicas oficiales de CELIA.
+- [x] Documentar identidad visual original de CELIA y MATEO; [ ] adjuntar imágenes maestras nuevas y validar su QA.
 - [ ] Adjuntar logos originales y verificar versiones aprobadas.
 - [ ] Adjuntar imágenes guía y capturas de Fire Stick/Downloader.
 - [ ] Confirmar en ElevenLabs Agent ID, Voice ID, acceso y licencia de uso de voz.
