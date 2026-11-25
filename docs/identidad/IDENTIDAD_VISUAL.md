@@ -1,8 +1,8 @@
-# Identidad visual oficial — CELIA y MATEO | TiviPlay Latino
-**Versión:** 2.0.0 · **Fecha:** 2026-11-24 · **Estado:** dirección creativa aprobada, activos binarios pendientes de revisión/carga.
+# Identidad visual oficial — CELIA y MATÍAS | TiviPlay Latino
+**Versión:** 2.1.0 · **Fecha:** 2026-11-25 · **Estado:** dirección creativa aprobada, activos binarios pendientes de revisión/carga.
 
 ## Cambio de identidad
-Se retira de las nuevas campañas el **aspecto anterior de CELIA**, inspirado en un personaje de terceros. El nombre CELIA y la configuración sonora se conservan. A partir de esta fecha, toda pieza nueva usará las características originales de CELIA documentadas en `FICHA_TECNICA_CELIA.md`, y las de MATEO en `FICHA_TECNICA_MATEO.md`. No imitar ni recrear el retrato anterior.
+Se retira de las nuevas campañas el **aspecto anterior de CELIA**, inspirado en un personaje de terceros. El nombre CELIA y la configuración sonora se conservan. A partir de esta fecha, toda pieza nueva usará las características originales de CELIA documentadas en `FICHA_TECNICA_CELIA.md`, y las de MATÍAS en `FICHA_TECNICA_MATIAS.md`. No imitar ni recrear el retrato anterior.
 
 ## Lenguaje común
 Representación humana fotorrealista, cálida, colombiana/latinoamericana sin estereotipos; tecnología accesible, experiencia de entretenimiento y atención con empatía. Azul profundo, eléctrico y cian como base; blanco para limpieza; cobre como acento discreto. Logo oficial intacto; imágenes y tipografía de calidad editorial, sin sobrecarga.
@@ -10,7 +10,7 @@ Representación humana fotorrealista, cálida, colombiana/latinoamericana sin es
 ## CELIA
 Rostro nuevo de ojos café-avellana, bob corto castaño oscuro texturizado con reflejos cobrizos sutiles, clip triangular azul play, headset discreto. Distinta del prototipo original de bob negro, mechón naranja frontal y broche estrella. Nombre exacto **CELIA**.
 
-## MATEO
+## MATÍAS
 Rostro masculino nuevo de ojos avellana, cabello corto oscuro ondulado/rizado natural, clip geométrico play y headset discreto. Complementario, no clon ni variante del rostro de CELIA.
 
 ## Aplicaciones
@@ -27,4 +27,4 @@ Rostro masculino nuevo de ojos avellana, cabello corto oscuro ondulado/rizado na
 5. El material gráfico generado puede contener errores de texto pequeños; hacer control editorial final antes de establecer un archivo visual como maestro definitivo.
 
 ## Activos
-Nueva ficha CELIA y nueva ficha MATEO: archivos creados en conversación, **todavía no registrados como activos binarios verificables en GitHub/Drive**. Inventario y migración: `docs/recursos/MANIFIESTO_RECURSOS_CELIA.md`.
+Nueva ficha CELIA y nueva ficha MATÍAS: archivos creados en conversación, **todavía no registrados como activos binarios verificables en GitHub/Drive**. Inventario y migración: `docs/recursos/MANIFIESTO_RECURSOS_CELIA.md`.
