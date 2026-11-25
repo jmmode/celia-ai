@@ -9,7 +9,7 @@
 
 ## Contrato de trabajo
 - La documentación versionada aprobada tiene precedencia sobre conversaciones.
-- Mantén el rostro, vestuario, personalidad y voz oficial de CELIA; no los sustituyas.
+- Preserva el nombre CELIA y su voz oficial; la identidad **visual anterior está OBSOLETA**. Usa únicamente `docs/identidad/IDENTIDAD_VISUAL.md`, `FICHA_TECNICA_CELIA.md` y `FICHA_TECNICA_MATEO.md` como especificaciones de la identidad nueva. No reutilices retratos históricos ni generes videos con ellos. Los PNG nuevos aún requieren carga binaria y QA.
 - Verifica los activos originales y sus permisos antes de generar una pieza.
 - Para Fire Stick, usa Downloader y código **2865004**; nunca confundas este flujo con Samsung, LG o iPhone.
 - Solo habilita fuentes desconocidas cuando corresponda, específicamente para Downloader. No habilites ADB por defecto.
