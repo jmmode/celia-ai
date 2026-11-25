@@ -16,3 +16,15 @@
 | CELIA-009 | Separar materiales aprobados para publicación de fuentes maestras y elementos sensibles. | APROBADO |
 
 **Nota:** Ningún MP4 final ha sido producido o validado aquí. La ficha visual y la vinculación de voz exigen verificación documental antes de producir.
+
+
+## Decisiones nuevas — 2026-11-24
+| ID | Decisión | Estado |
+|---|---|---|
+| CELIA-010 | Conservar nombre CELIA, configuración de voz Kate 1 y Agent ID actual; sustituir solo la identidad visual. | APROBADO |
+| CELIA-011 | Retirar de futuras publicaciones la apariencia visual anterior, inspirada en un personaje de tercero. | APROBADO |
+| CELIA-012 | Adoptar nueva identidad fotorrealista con cabello bob castaño texturizado, reflejos cobrizos, ojos café-avellana y clip triangular azul play. | APROBADO COMO DISEÑO; BINARIO PENDIENTE QA |
+| MATEO-001 | Crear personaje masculino MATEO complementario a CELIA, sin declarar voz/agente operativo. | APROBADO COMO DISEÑO; BINARIO PENDIENTE QA |
+| ASSETS-001 | Posponer borrado de las imágenes anteriores hasta terminar actualización documental, publicar binarios y revisar dependencias. | APROBADO |
+
+Estas decisiones reemplazan **solo la apariencia** descrita en CELIA-002 y no invalidan la identidad sonora ni el servicio existente.
