@@ -1,7 +1,7 @@
 # Recursos visuales de CELIA
 
 Los archivos maestros vigentes se ubicarán en (pendientes de carga binaria):
-- `assets/identidad/`: nuevas fichas originales de CELIA y MATEO. Los archivos antiguos de CELIA están **OBSOLETOS PARA PRODUCCIÓN**; no utilizarlos.
+- `assets/identidad/`: nuevas fichas originales de CELIA y MATÍAS. Los archivos antiguos de CELIA están **OBSOLETOS PARA PRODUCCIÓN**; no utilizarlos.
 - `assets/logos/`: logo oficial de TiviPlay Latino.
 - `assets/guias/`: guías aprobadas de instalación.
 - `assets/capturas/`: capturas auténticas de Fire TV y Downloader.
