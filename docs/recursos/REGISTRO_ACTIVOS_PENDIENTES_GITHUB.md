@@ -11,3 +11,14 @@ Fecha: 2026-11-23. Estado: originales disponibles localmente y pendientes de car
 | Guía Samsung, solo estilo | `assets/guias/guia_samsung_smarter_referencia.png` | `4a795124711eb4402189446e08a515284cb61cd53b3e5fbe7ae2adce84adae3b` |
 
 No asumir publicación hasta leer los binarios desde GitHub. La guía Samsung no es fuente de pasos técnicos Fire Stick.
+
+
+## Actualización 2026-11-24
+Los dos PNG de CELIA registrados arriba son históricos y quedan **OBSOLETOS PARA PRODUCCIÓN**; sus hashes se conservan como evidencia hasta retirada documentada, sin afirmar que los binarios estén publicados.
+
+| Recurso nuevo | Archivo del chat | Estado |
+|---|---|---|
+| Nueva ficha maestra CELIA | `ficha_maestra_de_celia_tiviplay_latino.png` | PENDIENTE_SUBIR_GITHUB_DRIVE_Y_QA |
+| Ficha maestra MATEO | `ficha_maestra_de_mateo_tiviplay_latino.png` | PENDIENTE_SUBIR_GITHUB_DRIVE_Y_QA |
+
+Priorizar nueva identidad visual y mantener la voz de CELIA intacta. Antes de cargar, validar las etiquetas menores y el logo en la imagen fuente.
