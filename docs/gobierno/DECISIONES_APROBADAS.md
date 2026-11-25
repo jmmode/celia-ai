@@ -28,3 +28,12 @@
 | ASSETS-001 | Posponer borrado de las imágenes anteriores hasta terminar actualización documental, publicar binarios y revisar dependencias. | APROBADO |
 
 Estas decisiones reemplazan **solo la apariencia** descrita en CELIA-002 y no invalidan la identidad sonora ni el servicio existente.
+
+## Actualización — 2026-11-25
+
+| ID | Decisión | Estado |
+|---|---|---|
+| MATIAS-001 | El nombre oficial del personaje masculino es **Matías**; sustituye el nombre de MATEO-001, sin cambiar su identidad visual. | APROBADO |
+| MATIAS-002 | Voz oficial: Yorman Zapata - Podcast, Ads; Voice ID `VVBVYefvg7r5n2yHrobQ`. Sustituye las propuestas vocales anteriores. | VALIDADO |
+
+Consultar [ficha técnica](../identidad/FICHA_TECNICA_MATIAS.md) y [contrato vocal](../identidad/TIVIPLAY_IDENTIDAD_VOCAL_MATIAS_V1_2026-11-25.md). No se declara agente conversacional de Matías operativo.
