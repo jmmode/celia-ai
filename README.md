@@ -1,6 +1,9 @@
 # CELIA — TiviPlay Latino
 
-Repositorio **privado** de identidad, documentación, procedimientos y producción audiovisual de **CELIA**, asistente virtual oficial de TiviPlay Latino.
+Repositorio de identidad, documentación, procedimientos y producción audiovisual de **CELIA**, asistente virtual oficial de TiviPlay Latino.
+
+## Estado de identidad visual (2026-11-24)
+Consultar [identidad visual v2](docs/identidad/IDENTIDAD_VISUAL.md), [ficha CELIA](docs/identidad/FICHA_TECNICA_CELIA.md) y [ficha MATEO](docs/identidad/FICHA_TECNICA_MATEO.md). Imágenes nuevas pendientes de publicar en repositorio y Drive; **no usar las anteriores**.
 
 ## Empezar aquí
 1. [Instrucciones maestras](CELIA_INSTRUCCIONES_PROYECTO.md)
@@ -11,7 +14,7 @@ Repositorio **privado** de identidad, documentación, procedimientos y producci�
 6. [Continuidad operativa de gráficos](docs/procedimientos/TIVIPLAY_CONTINUIDAD_OPERATIVA_GRAFICOS_2026-09-27(20261004-120952).md)
 
 ## Material de identidad
-Los originales visuales incluyen dos guías maestras de CELIA y el logo corporativo. **Actualmente están cargados en las fuentes del proyecto CELIA de ChatGPT y en el paquete de importación; su publicación binaria en este repositorio sigue pendiente**. Consultar [assets/README.md](assets/README.md).
+La identidad gráfica anterior de CELIA fue reemplazada por personajes originales CELIA y MATEO el 2026-11-24. Los PNG anteriores quedan OBSOLETOS para nuevas producciones hasta la sustitución binaria supervisada. El nombre y la voz de CELIA se conservan. **Actualmente están cargados en las fuentes del proyecto CELIA de ChatGPT y en el paquete de importación; su publicación binaria en este repositorio sigue pendiente**. Consultar [assets/README.md](assets/README.md).
 
 ## Voz oficial (referencia previa, requiere verificación en ElevenLabs)
 - Agente: `CELIA | TiviPlay Latino | Prototipo`
@@ -31,6 +34,7 @@ Los PNG originales permanecen pendientes de subir y validar. Ver [inventario y h
 No publicar credenciales, datos personales, API keys ni medios internos sin autorización. Claude, ChatGPT y Codex requieren acceso autorizado a este repositorio. Las propuestas se versionan y los recursos se marcan como aprobados solo después de revisión.
 
 ## Estado
+- Identidad gráfica: nueva especificación documentada; reemplazo de imágenes pendientes.
 - Repositorio creado: **2026-11-23**.
 - Documentación principal: **publicada**.
 - Recursos gráficos binarios: **pendientes de subida y verificación**.
